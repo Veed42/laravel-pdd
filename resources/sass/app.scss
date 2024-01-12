@@ -1,0 +1,26 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+// Variables
+
+
+
+
+
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+
+
+a{
+    text-decoration: none;
+}
+textarea{
+    resize: none;
+}
+
+.input-description{
+    height: 300px;
+    width: 400px;
+}
